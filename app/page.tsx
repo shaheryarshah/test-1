@@ -17,7 +17,7 @@ export default function home() {
 <h6 className="relative flex justify-center overflow-hidden bg-black-500 py-6 sm:py-12, text-2xl text-red-500">Challenges</h6>
     However, PV power production does have some environmental costs. For example, the materials used to build the cells are potentially unsustainable and will run out eventually. There are also no viable technologies for recycling solar waste.
 relative flex justify-center overflow-hidden bg-black-500 py-6 sm:py-12, 
-<img src="https://www.projectsolaruk.com/wp-content/uploads/2022/02/american-public-power-association-fm5_vCUa-Bc-unsplash.jpg" style={{ width: '100rem' }} alt=""/>
+
        
      
     
